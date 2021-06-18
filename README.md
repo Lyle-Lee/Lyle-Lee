@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lyle-Lee
 - 👀 I’m interested in Explainable AI / DL Theory / Deep Metric Learning
-- 🌱 I’m currently working on Non-Uniform Sampling SGD for DL models
+- 🌱 I’m currently working on Non-Uniform SGD for DL models
 - 📫 How to reach me: aoyuli@rio.gsic.titech.ac.jp
 
 <!---
