@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lyle-Lee
-- 👀 I’m interested in Explainable AI / DL Theory / Deep Metric Learning
+- 👀 I’m interested in Computer Graphics / Deep Metric Learning / GAN
 - 🌱 I’m currently working on Non-Uniform SGD for DL models
 - 📫 How to reach me: aoyuli@rio.gsic.titech.ac.jp
 
